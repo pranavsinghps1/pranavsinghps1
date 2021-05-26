@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavsinghps1&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsinghps1&layout=compact&theme=dark&count_private=true&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
