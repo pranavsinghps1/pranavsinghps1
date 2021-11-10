@@ -1,8 +1,9 @@
-### Deep Learning in Healthcare/Self-supervised learning
+### Deep Learning in Healthcare/Self-supervised learning/ NLP:Faithfull Text Summarization and Robust multi Language Modelling.
 ### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
 ### Research Work :
 - Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
-- I’m currently working on FGVC8's (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
+- CVPR 2021/FGVC8 (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
+
 <!--
 **pranavsinghps1/pranavsinghps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
