@@ -1,4 +1,4 @@
-### Deep Learning in Healthcare/Self-supervised learning.
+### AI in Healthcare, Self-supervised learning.
 ### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
 ### Research Work :
 - Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
