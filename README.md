@@ -1,8 +1,11 @@
 ### AI in Healthcare, Self-supervised learning.
 ### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
 ### Research Work :
-- Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
+- (Decemeber 2021 - Present) : Working on a Resarch project at the intersection of Medical Image segmentation and Deep learning in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity. 
 - CVPR 2021/FGVC8 (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
+- Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
+
+
 
 <!--
 **pranavsinghps1/pranavsinghps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
