@@ -1,7 +1,7 @@
 ### AI in Healthcare, Self-supervised learning.
 ### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
 ### Research Work :
-- (Decemeber 2021 - Present) : Working on a Research project at the intersection of Medical Image segmentation and Deep learning in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity. 
+- (December 2021 - Present) : Working on a Research project at the intersection of Medical Image segmentation and Deep learning in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity. 
 - CVPR 2021/FGVC8 (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
 - Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
 
