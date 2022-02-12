@@ -1,9 +1,14 @@
 ### AI in Healthcare, Self-supervised learning.
 ### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
 ### Research Work :
-- (December 2021 - Present) : Working on a Research project at the intersection of Medical Image segmentation and Deep learning in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity. 
+- (December 2021 - Present) : Working on a Research project at the intersection of Medical Image and Deep learning based on Dense Prediction and Classification in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity.
+- [My Contribution](https://github.com/facebookresearch/vissl/pull/454) for facebook research's [VISSL](https://github.com/facebookresearch/vissl) Project, Implementation of Deepmind's BYOL Self-supervised technique can be found here - [Single GPU Implementation](https://github.com/iseessel/vissl/pull/1) and [Updates](https://github.com/iseessel/vissl/pull/2).
 - CVPR 2021/FGVC8 (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
 - Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
+- Top 57% in Lyft's Motion Prediction for Autonomous Vehicles.
+- Top 43% in Google Research's Open Images Object Detection RVC 2020 edition.
+
+
 
 
 
