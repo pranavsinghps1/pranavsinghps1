@@ -1,7 +1,8 @@
 ### AI in Healthcare, Self-supervised learning.
-### My Kaggle Profile : https://www.kaggle.com/pranasinghps1
+### [Updated as of June 2022]
 ### Research Work :
 - (December 2021 - Present) : Working on a Research project at the intersection of Medical Image and Deep learning based on Dense Prediction and Classification in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity.
+- [CASS](https://github.com/pranavsinghps1/CASS) is a novel resource-efficient self-supervised learning approach developed for medical image analysis which is computationally efficient and better performing than state-of-the-art self-supervised learning approaches. [Arixv Paper](https://arxiv.org/abs/2206.04170v3) , [Papers with Code](https://paperswithcode.com/paper/cass-cross-architectural-self-supervision-for)
 - [My Contribution](https://github.com/facebookresearch/vissl/pull/454) for facebook research's [VISSL](https://github.com/facebookresearch/vissl) Project, Implementation of Deepmind's BYOL Self-supervised technique can be found here - [Single GPU Implementation](https://github.com/iseessel/vissl/pull/1) and [Updates](https://github.com/iseessel/vissl/pull/2).
 - CVPR 2021/FGVC8 (Fine-Grained Visual Categorization) Plant Pathology Challenge (Top 9%).
 - Co-authored a paper on “Melanoma Classification using efficient nets with multiple ensembles and patient-level data”, International Conference on Computational Intelligence - ICCI 2020, IIIT Pune.
