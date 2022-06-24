@@ -1,4 +1,4 @@
-### AI in Healthcare, Self-supervised learning.
+### Deep learning/Computer Vision/Self-supervised learning/Resource efficient learning.
 ### [Updated as of June 2022]
 ### Research Work :
 - (December 2021 - Present) : Working on a Research project at the intersection of Medical Image and Deep learning based on Dense Prediction and Classification in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity.
