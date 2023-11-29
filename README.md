@@ -1,7 +1,7 @@
 ### Deep learning/Computer Vision/Self-supervised learning/Resource efficient learning.
-### [Updated as of August 2022]
+### [Updates since Sept. 2022 are available [here](https://pranavsinghps1.github.io/) ]
+### [Updated as of Sept. 2022]
 ### Research Work :
-- (December 2021 - Present) : Working on a Research project at the intersection of Medical Image and Deep learning based on Dense Prediction and Classification in Colaboration with NYU CDS and NYU Colton Center of Autoimmunity.
 - [DEDL](https://github.com/pranavsinghps1/dedl)  Introduces novel Autoencoder post-processing for image segmentation which improves upon traditional segmentation architecture by 3% at no extra space and inference time. We also introduce data-efficient deep learning methods for medical image classification and segmentation which improves upon previous approaches by 26% and 5%. [Arixv Paper](https://arxiv.org/abs/2207.06489) , [Papers with Code](https://paperswithcode.com/paper/a-data-efficient-deep-learning-framework-for) , **[Accepted at ECCV - Medical Computer Vision Workshop 2022](https://mcv-workshop.github.io/)**
 - [CASS](https://github.com/pranavsinghps1/CASS) is a novel resource-efficient self-supervised learning approach developed for medical image analysis which is computationally efficient and better performing than state-of-the-art self-supervised learning approaches. [Arixv Paper](https://arxiv.org/abs/2206.04170v3) , [Papers with Code](https://paperswithcode.com/paper/cass-cross-architectural-self-supervision-for), **[Accepted at NeurIPS Self-Supervised Learning Theory & Practice Workshop 2022](https://nips.cc/virtual/2022/workshop/49991)**
 - [My Implementation](https://github.com/lightly-ai/lightly/releases/tag/1.1.8) of Deepmind's BYOL Self-supervised technique for [lightly-ai](https://github.com/lightly-ai/lightly).
